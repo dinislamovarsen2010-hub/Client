@@ -1,0 +1,30 @@
+[
+    {
+        "online": "145",
+        "maxonline": "1000",
+        "color": "FF0000",
+        "x2": "true",
+        "key": "1424",
+        "name": "HOLI",
+        "firstname": "HOLI",
+        "secondname": "",
+        "url": "red.blackrussia.online",
+        "ip": "188.127.241.8",
+        "port": "1293"
+
+    },
+    {
+        "online": "0",
+        "maxonline": "50",
+        "color": "FFFFFF",
+        "x2": "true",
+        "key": "1425",
+        "name": "Test server",
+        "firstname": "Test server",
+        "secondname": "",
+        "url": "Green.blackrussia.online",
+        "ip": "185.207.214.14",
+        "port": "3461"
+
+    }
+]
